@@ -1,0 +1,5 @@
+Quando estou comitando, uns arquivos estão dando falha 
+então comitei o apk.
+
+
+APK está:app/release
